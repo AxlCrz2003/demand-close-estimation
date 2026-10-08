@@ -1,0 +1,12 @@
+# datos generados (se recrean con generar_datos.py)
+data/
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# entornos
+.venv/
+venv/
+env/
